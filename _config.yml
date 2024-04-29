@@ -3,3 +3,6 @@ logo: /assets/img/roundpic.png
 description: Portfolio
 show_downloads: true
 theme: jekyll-theme-minimal
+
+author: 
+  linkedin         : "francis-penalosa"
