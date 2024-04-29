@@ -18,6 +18,7 @@ Involving a Python-based regression model using a dataset of Chicago's weather c
 - Matplotlib and Seaborn for visualizing data
 
 
+
 ## Prediction of Low Birthweight in Python
 ### Overview
 This project develops a classification model in Python to predict low birthweight using birthweight metrics. 
@@ -33,6 +34,7 @@ Through feature analysis and machine learning, the model identifies key factors 
 - pandas for data management
 - scikit-learn for classification algorithms
 - Matplotlib for data visualization
+
 
 
 ## Laundry Paradox a Sitcom Sci-fi Mashup Text Adventure Game
