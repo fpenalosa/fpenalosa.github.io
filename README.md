@@ -1,24 +1,6 @@
 ### Projects
 #### 2023-2024
 
-## Optimal Conditions for Cycling in Chicago
-### Overview
-Involving a Python-based regression model using a dataset of Chicago's weather conditions, the goal is to predict the optimal days and times for bicycle riding. By correlating historical weather data with bike usage patterns, we provide insights into the best conditions that encourage cycling in the city.
-
-### Features
-- Exploratory data analysis of weather conditions and bike usage in Chicago.
-- Regression models to predict peak bicycling times based on weather data.
-- Visualization of model predictions against actual bike usage data.
-
-### Technologies Used
-- Python
-- pandas for data manipulation
-- NumPy for numerical computations
-- scikit-learn for building regression models
-- Matplotlib and Seaborn for visualizing data
-
-
-
 ## Prediction of Low Birthweight in Python
 ### Overview
 This project develops a classification model in Python to predict low birthweight using birthweight metrics. 
@@ -50,3 +32,20 @@ Navigate through humorous scenarios, make choices that alter your path, and enjo
 ### Technologies Used
 - Python
 - Filled with fun scenarios while adapting python codes to control the game
+
+
+## Optimal Conditions for Cycling in Chicago
+### Overview
+Involving a Python-based regression model using a dataset of Chicago's weather conditions, the goal is to predict the optimal days and times for bicycle riding. By correlating historical weather data with bike usage patterns, we provide insights into the best conditions that encourage cycling in the city.
+
+### Features
+- Exploratory data analysis of weather conditions and bike usage in Chicago.
+- Regression models to predict peak bicycling times based on weather data.
+- Visualization of model predictions against actual bike usage data.
+
+### Technologies Used
+- Python
+- pandas for data manipulation
+- NumPy for numerical computations
+- scikit-learn for building regression models
+- Matplotlib and Seaborn for visualizing data
