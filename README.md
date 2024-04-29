@@ -16,6 +16,8 @@ Through feature analysis and machine learning, the model identifies key factors 
 - pandas for data management
 - scikit-learn for classification algorithms
 - Matplotlib for data visualization
+- https://github.com/fpenalosa/fpenalosa/blob/main/classificationmodeling.ipynb
+
 
 
 
@@ -32,6 +34,7 @@ Navigate through humorous scenarios, make choices that alter your path, and enjo
 ### Technologies Used
 - Python
 - Filled with fun scenarios while adapting python codes to control the game
+- Link: https://github.com/fpenalosa/fpenalosa/blob/main/LaundryParadoxTextAdventureGame.ipynb
 
 
 ## Optimal Conditions for Cycling in Chicago
@@ -49,3 +52,4 @@ Involving a Python-based regression model using a dataset of Chicago's weather c
 - NumPy for numerical computations
 - scikit-learn for building regression models
 - Matplotlib and Seaborn for visualizing data
+- Link: https://github.com/fpenalosa/fpenalosa/blob/main/regressionmodeling.ipynb
