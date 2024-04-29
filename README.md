@@ -16,7 +16,7 @@ Through feature analysis and machine learning, the model identifies key factors 
 - pandas for data management
 - scikit-learn for classification algorithms
 - Matplotlib for data visualization
-- https://github.com/fpenalosa/fpenalosa/blob/main/classificationmodeling.ipynb
+- Link: https://github.com/fpenalosa/fpenalosa/blob/main/classificationmodeling.ipynb
 
 
 
