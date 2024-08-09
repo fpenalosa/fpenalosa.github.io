@@ -18,6 +18,7 @@ Through feature analysis and machine learning, the model identifies key factors 
 - Matplotlib for data visualization
 - Link: https://github.com/fpenalosa/fpenalosa/blob/main/classificationmodeling.ipynb
 
+-------------------
 
 ## Laundry Paradox a Sitcom Sci-fi Mashup Text Adventure Game
 ### Overview
@@ -33,6 +34,7 @@ Navigate through humorous scenarios, make choices that alter your path, and enjo
 - Filled with fun scenarios while adapting python codes to control the game
 - Link: https://github.com/fpenalosa/fpenalosa/blob/main/LaundryParadoxTextAdventureGame.ipynb
 
+-------------------
 
 ## Optimal Conditions for Cycling in Chicago
 ### Overview
@@ -51,6 +53,7 @@ Involving a Python-based regression model using a dataset of Chicago's weather c
 - Matplotlib and Seaborn for visualizing data
 - Link: https://github.com/fpenalosa/fpenalosa/blob/main/regressionmodeling.ipynb
 
+-------------------
 
 ## Search of The Best Wedding Option
 ### Overview
