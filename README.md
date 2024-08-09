@@ -19,10 +19,7 @@ Through feature analysis and machine learning, the model identifies key factors 
 - Link: https://github.com/fpenalosa/fpenalosa/blob/main/classificationmodeling.ipynb
 
 
-
-
 ## Laundry Paradox a Sitcom Sci-fi Mashup Text Adventure Game
-
 ### Overview
 Dive into the comedic world of our text adventure game, where the universe of famous sitcoms collides with iconic sci-fi movie anecdotes. 
 Navigate through humorous scenarios, make choices that alter your path, and enjoy a unique blend of laughter and adventure.
@@ -53,3 +50,17 @@ Involving a Python-based regression model using a dataset of Chicago's weather c
 - scikit-learn for building regression models
 - Matplotlib and Seaborn for visualizing data
 - Link: https://github.com/fpenalosa/fpenalosa/blob/main/regressionmodeling.ipynb
+
+
+## Search of The Best Wedding Option
+### Overview
+Using a SQL for database filtering,  the goal is to find the optimal wedding option by size (S,M,L) and by budget category (low-cost, average, luxury).
+
+### Features
+- Exploratory data analysis of the wedding DB.
+- Use of different SQL commands.
+
+### Technologies Used
+- SQL
+- MySQL Workbench
+- Link: https://github.com/fpenalosa/fpenalosa/blob/main/wedding_options_data.sql
