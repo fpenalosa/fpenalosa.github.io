@@ -66,4 +66,4 @@ Using a SQL for database filtering,  the goal is to find the optimal wedding opt
 ### Technologies Used
 - SQL
 - MySQL Workbench
-- Link: https://github.com/fpenalosa/fpenalosa/blob/main/wedding_options_data.sql
+- Link: https://github.com/fpenalosa/fpenalosa/blob/main/relevant_vendors%20table.sql
